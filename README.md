@@ -45,4 +45,4 @@ pocos puntos de recarga en todo el país.
 
 - **Dashboard_RendimientoSostenible.pbix** En este Archivo se encuentrá el tablero final en la aplicación de PowerBI.
 - **Documentacion_RendimientoSostenible.pdf** En este documento se encuentran en detalle todos los pasos implementados en el proyecto. Recomiendo leero para comprender aún mejor el tablero.
-- **PowerBiOnline-RendimientoSostenible** En este archivo se encuentra el link del proyecto para poder visualizar e interactuar con el tablero sin necesidad de tener instalada la aplicacion de PowerBI 
+- **PowerBiService-Rendimiento Sostenible** En este archivo se encuentra el link del proyecto para poder visualizar e interactuar con el tablero sin necesidad de tener instalada la aplicacion de PowerBI 
