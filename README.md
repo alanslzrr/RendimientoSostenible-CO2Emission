@@ -1,48 +1,46 @@
-# RendimientoSostenible-CO2Emission
+# SustainablePerformance-CO2Emission
 
-### Descripción de la temática de los datos
-En este proyecto, se buscará evaluar el importante impacto sobre el medio
-ambiente, debido a la considerable emisión de Dióxido de Carbono bajo ciclo de
-conducción (CO2) y la gran demanda de combustible a nivel país en torno a los
-vehículos a base de combustión.
+### Data Theme Description
+In this project, we aim to assess the significant environmental impact due
+to the considerable emission of Carbon Dioxide under driving cycle (CO2) and the high
+country-level fuel demand for combustion-based vehicles.
 
-También se tendrá en cuenta datos que diferenciaran la variedad de emisiones y
-consumos de combustible entre vehículos, tales como; Marca, Tipo, Cilindrada,
-Consumo, Tipo de combustible, entre otras, permitiendo encontrar alguna variable
-que resulte frecuente.
+Data will also consider differentiating factors in emissions and
+fuel consumption among vehicles, such as; Brand, Type, Engine Capacity,
+Consumption, Fuel Type, among others, allowing the identification of any
+common variable.
 
-Se llevo a cabo mediante una base de datos “Ensayos de gases efecto
-invernadero y consumos”, aportada por el “Ministerio de Ambiente y Desarrollo
-Sostenible. Coordinación de Emisiones Vehiculares” con una lista de 864 de
-diversas marcas y modelos, donde los valores fueron proporcionados por
-diferentes Laboratorios que realizaron un ensayo particular en cada vehículo.
+This was conducted using a "Greenhouse Gas Tests and Consumption" database, provided by the "Ministry of Environment and Sustainable
+Development. Coordination of Vehicle Emissions" with a list of 864
+various brands and models, where values were provided by
+different Laboratories that conducted a specific test on each vehicle.
 
-### Hipótesis
-El propósito del proyecto es llegar a visibilizar y concientizar la gravedad de las
-emisiones, donde el CO2 es el principal gas causante del efecto invernadero en
-nuestro planeta, junto con la fuerte demanda de combustible causada por los
-vehículos. Para poder llevarlo a cabo, los datos serán de gran utilidad, ya que
-brindan valores reales por cada vehículo, tales como, Emisión de CO2 en la
-unidad de g/km, Consumo de combustible en áreas, urbanizadas/extraurbanas,
-igualmente de un consumo mixto, lts/100km, permitiendo identificar cada vehículo
-con algunas variables, concretamente como, <a mayor valor de cilindrada, mayor
-consumo y emisión >.
+### Hypothesis
+The project's purpose is to make visible and raise awareness about the severity of
+emissions, where CO2 is the main greenhouse gas on
+our planet, along with the strong fuel demand caused by
+vehicles. To achieve this, the data will be very useful as they
+provide real values for each vehicle, such as CO2 Emission in
+g/km unit, Fuel consumption in urban/extra-urban areas,
+as well as a mixed consumption, lts/100km, allowing the identification of each vehicle
+with certain variables, specifically, <a higher engine capacity, higher
+consumption and emission>.
 
-En general se busca proporcionar información valiosa sobre la huella de carbono
-del sector del transporte con la capacidad de ayudar a los legisladores, fabricantes
-de vehículos y personas a **comprender** y **reducir** sus emisiones.
+Overall, the aim is to provide valuable information about the carbon footprint
+of the transportation sector with the capability of helping lawmakers, vehicle
+manufacturers, and individuals to **understand** and **reduce** their emissions.
 
-### Alcance
-- Apoyo a la toma de decisiones de organizaciones ambientalistas, donde puedan
-identificar las maneras más eficaces para poder disminuir las contaminaciones
-antropogénicas.
+### Scope
+- Support decision-making for environmental organizations, where they can
+identify the most effective ways to reduce anthropogenic contaminations.
 
-- Pretender incentivar aún más, la llegada de autos eléctricos e Híbridos a nuestro
-país, siendo uno de los menos avanzados, con la mínima producción y teniendo
-pocos puntos de recarga en todo el país.
+- Intend to further encourage the arrival of electric and hybrid cars in our
+country, being one of the least advanced, with minimal production and having
+few charging points across the country.
 
-## Comprensión de archivos
+## Understanding of Files
 
-- **Dashboard_RendimientoSostenible.pbix** En este Archivo se encuentrá el tablero final en la aplicación de PowerBI.
-- **Documentacion_RendimientoSostenible.pdf** En este documento se encuentran en detalle todos los pasos implementados en el proyecto. Recomiendo leero para comprender aún mejor el tablero.
-- **PowerBiService-Rendimiento Sostenible** En este archivo se encuentra el link del proyecto para poder visualizar e interactuar con el tablero sin necesidad de tener instalada la aplicacion de PowerBI 
+- **Dashboard_SustainablePerformance.pbix** In this file, you will find the final dashboard in the PowerBI application.
+- **Documentation_SustainablePerformance.pdf** This document details all the steps implemented in the project. I recommend reading it for a better understanding of the dashboard.
+- **PowerBiService-Sustainable Performance** This file contains the link to the project for viewing and interacting with the dashboard without needing the PowerBI application installed.
+
